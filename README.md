@@ -1,6 +1,5 @@
 # Getting Started with Reactjs resume
 
-New changes
 
 ## Available Scripts
 
